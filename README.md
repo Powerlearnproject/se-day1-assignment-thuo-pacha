@@ -11,6 +11,10 @@ Identify and describe at least three key milestones in the evolution of software
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
+Planning and requirement analysis- At this stage planning of the project is involved whereby the scope of the project is determined, objectives and goals are set and resources required are planned.
+Defining requirements- All requirements are defined including both technical and functionak requirements.Reviews are made by the consumers and other developers and approvals for the project are made.
+Designing architecture- In this stage , designing plans are made. Provision of both the low level and high level design for the project are made.
+Developing project -
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
