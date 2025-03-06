@@ -7,6 +7,7 @@ Software Engineering Day1 Assignment
 Explain what software engineering is and discuss its importance in the technology industry.
 Software engineering can be referred to as the process in which developers create/design, develop,test and maintain software.It is important as it enhances critical,creative and problem solving skills with an aim to make life easier for humans.
 
+
 Identify and describe at least three key milestones in the evolution of software engineering.
 
 
@@ -56,3 +57,5 @@ Prompt engineering is a method of .It improves accuracy, efficiency and personal
 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+
+What is 
