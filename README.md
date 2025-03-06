@@ -11,22 +11,38 @@ Identify and describe at least three key milestones in the evolution of software
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
-Planning and requirement analysis- At this stage planning of the project is involved whereby the scope of the project is determined, objectives and goals are set and resources required are planned.
-Defining requirements- All requirements are defined including both technical and functionak requirements.Reviews are made by the consumers and other developers and approvals for the project are made.
-Designing architecture- In this stage , designing plans are made. Provision of both the low level and high level design for the project are made.
-Developing project -
 
+Planning and requirement analysis- At this stage planning of the project is involved whereby the scope of the project is determined, objectives and goals are set and resources required are planned.
+
+Defining requirements- All requirements are defined including both technical and functionak requirements.Reviews are made by the consumers and other developers and approvals for the project are made.
+
+Designing architecture- In this stage , designing plans are made. Provision of both the low level and high level design for the project are made.
+
+Developing product - The developers use specific programming code as per the DDS . Programmers follow the protocols set by the association.
+
+Product testing _ The software is tested to ensure the smooth running of the application.
+
+Deployment and maintenance of products -The product is tested in a real industrial environment and constructive feedback is given.If the product is good then it is released to other markets or a modified version of the product is made.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
+Software developers write code to ensure the proper functioning of the code.They utilise the technical requirements adn provide estimations of costs.
+
+Quality assurance engineer -Ensures that the software meets quality standards and criteria before it is launched to the market.
+
+Project manager - Becomes incharge of the development of the product. He/she identifies the processes required inorder to have an efficiently functioning software.  
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+
+Software developers face problems such as meeting deadlines, complexity of some softwares , constant changing of technology, mental fog and physical tiredness.
+
+Strrategies that may be used in order to curb this challenges is engaging in collaborative spaces wherby engineers help each other to create softwares and find solutions to the existing problems. Taking health breaks are important for their well being and reduces turedness and brain fog
 
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
@@ -36,6 +52,7 @@ Explain the different types of testing (unit, integration, system, and acceptanc
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
+Prompt engineering is a method of .It improves accuracy, efficiency and personalization thereby boosting the overall perforance and user experience.
 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
