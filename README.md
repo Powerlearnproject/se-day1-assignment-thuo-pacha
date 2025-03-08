@@ -38,15 +38,26 @@ Project manager - Becomes incharge of the development of the product. He/she ide
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
+An IDE is a software that combines tools that a developer needs in order to create a software or applications. It is important to developers because the software provides tools such as debuggers, a compiler and editor and other tools in one place this in turn improves productivity and an integrated development which allows developers to create new applications faster and easily. An example is a mobile app development IDEs.
+
+VC Systems
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
 Software developers face problems such as meeting deadlines, complexity of some softwares , constant changing of technology, mental fog and physical tiredness.
 
-Strrategies that may be used in order to curb this challenges is engaging in collaborative spaces wherby engineers help each other to create softwares and find solutions to the existing problems. Taking health breaks are important for their well being and reduces turedness and brain fog
+Strrategies that may be used in order to curb these challenges are: engaging in collaborative spaces whereby engineers help each other to create softwares and find solutions to the existing problems. Taking health breaks are important for their well being and reduces turedness and brain fog
 
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+
+Unit testing involves testing the individual units of code to ensure that they work.
+
+System testing is when the whole software is tested to ensure the proper functioning of the whole system and that it meets the requirements.
+
+Integration testing involves testing of the different units to ensure that they all work together or simultaneously as intended.
+
+Acceptance testing involves ensuring that the product meets the business market requirements and is functionally ready for users.
 
 
 #Part 2: Introduction to AI and Prompt Engineering
@@ -58,4 +69,6 @@ Prompt engineering is a method of .It improves accuracy, efficiency and personal
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 
-What is 
+"Write an essay about cows."
+
+Write a 500 word essay about Fressian cows."
